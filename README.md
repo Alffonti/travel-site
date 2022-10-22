@@ -4,7 +4,7 @@ This is a project of the [Git a Web Developer Job: Mastering the Modern Workflow
 
 ## About The Project
 
-![Travel Site screenshot](./screenshot.jpg)
+![Travel Site screenshot](https://user-images.githubusercontent.com/69361901/197349727-7db0d937-ca9f-4686-8b25-ecc64483b0df.png)
 
 The project aims to create a travel website with three sections: Our Beginning, Features, and Testimonials. It also features a Get In Touch modal and a Secret Client Area form which was built using a [serverless function](https://www.netlify.com/blog/intro-to-serverless-functions/) to restrict the access to the content only to users who have the secret phrase.
 
